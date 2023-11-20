@@ -335,6 +335,7 @@ public class Main
             System.out.println(playerNames[1] + " banked " + score + " points, bringing their total to " + (bankScore + score) + "\n");
         }
         return score;
+        
     }
     public static void wait(int ms) //DELAY METHOD
     {
