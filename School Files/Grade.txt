@@ -1,0 +1,31 @@
+Code - 103/100 :D
+
++5 for extra credit.
+
+Categories
+
+Correctness - 50/50
+
+Source Code Cleanliness - 18/20
+- (-2) Remember that constant variables in all programming languages should be in all uppercase with underscores separating words.
+
+User Experience (UX) - 20/20
+
+Efficiency and Optimization - 10/10
+
+
+Psuedocode and Flowchart - 74/80
+
+Categories
+
+Correctness of Psuedocode - 27/30
+- (-1) Missing an end quote on an output on line 165.
+- (-1) Globals have to be declared outside of the main. The main is between start and stop keywords. The "main" label is not required.
+- (-1) A wait method is missing an end parenthesis.
+
+Cleanliness of Psuedocode - 10/10
+
+Correctness of Flowchart - 27/30
+- (-3) Processing must be done in processing blocks (rectangles), not diamonds.
+
+Cleanliness of Flowchart - 10/10
